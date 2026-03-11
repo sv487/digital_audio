@@ -21,6 +21,8 @@ Instead of using audio libraries, the program mathematically generates the wavef
 4. Store samples as **16-bit integers**
 5. Write raw binary samples to a file
 
+![Sine Wave Sample](images/sine_sample.png)
+
 Audio software can read these samples and reconstruct the sound wave.
 
 ## Build
@@ -53,4 +55,4 @@ This project shows the complete path from:
 Mathematical signal → Sampling → PCM encoding → Binary file → Sound playback
 ```
 
-Understanding this pipeline is foundational for **digital signal processing, audio engines, and embedded systems**.
+This gives me a raw idea for  **digital signal processing, audio engines, and embedded systems**
