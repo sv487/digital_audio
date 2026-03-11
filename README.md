@@ -22,6 +22,8 @@ Instead of using audio libraries, the program mathematically generates the wavef
 5. Write raw binary samples to a file
 
 ![Sine Wave Sample](images/sine_sample.png)
+The bars in the image are showing the discrete points where the sample rate has been stored , which shows that the sin is not continious here but just a collection 
+of large discrete values combined together.
 
 Audio software can read these samples and reconstruct the sound wave.
 
