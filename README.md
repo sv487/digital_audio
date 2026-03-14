@@ -58,3 +58,4 @@ Mathematical signal → Sampling → PCM encoding → Binary file → Sound play
 ```
 
 This gives me a raw idea for  **digital signal processing, audio engines, and embedded systems**
+** NOTE --> i also added a code extension.c where one can combine more than frequency together in a -1 to +1 amplitude compilation and generate desired wave ** 
